@@ -1,4 +1,2 @@
-# calculator-html-css-javascript
-A calculator made in HTML, CSS, Javascript
-
-One of my first projects in HTML, CSS and Javascript
+# calculadora-html-css-javascript
+Uma calculadora feita em HTML, CSS e Javascript
