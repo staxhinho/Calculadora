@@ -7,6 +7,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0px;
 }
 
 input{
@@ -48,9 +49,9 @@ input{
 }
 
 .maincolor{
-    background-color: black;
+    background-color: #101010;
 }
 
 .ext{
-    background-color: orange;
+    background-color: rgb(207, 139, 11);
 }
